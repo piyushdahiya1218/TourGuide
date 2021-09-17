@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">TourGuide</string>
+
+    <string name="park11">Nehru Park</string>
+    <string name="park21">DDA Park</string>
+    <string name="park31">Surya Park</string>
+    <string name="park41">Dhruv Park</string>
+    <string name="park12">\"Good place for Morning Walk, enjoying Bhajans with soft music.\"</string>
+    <string name="park22">\"Park is located to near by housing area so advantageous to people.\"</string>
+    <string name="park32">\"Good time can be spend time with kids\"</string>
+    <string name="park42">\"Park is under Maintenance, good place for morning walk and evening walk 🚶.\"</string>
+    <string name="res11">Maini Restaurant</string>
+    <string name="res21">Cafe Wink</string>
+    <string name="res31">Pizza Hut</string>
+    <string name="res41">Bikanervala</string>
+    <string name="res51">Shubham Restaurant</string>
+    <string name="res61">The Yellow Chilli</string>
+    <string name="res71">The Dosa King</string>
+    <string name="res81">Sachdeva Restaurant</string>
+    <string name="res12">Family vegetarian restaurant</string>
+    <string name="res22">Chic continental cafe and soothing vibe</string>
+    <string name="res32">Casual pizza chain with wide selection</string>
+    <string name="res42">Contemporaray sweet and snack shop</string>
+    <string name="res52">Mixed fare eatery in simple  surrounding</string>
+    <string name="res62">Frontier dishes and casual chains</string>
+    <string name="res72">South Indian</string>
+    <string name="res82">Chinese</string>
+    <string name="his11">Himayun\'s Tomb</string>
+    <string name="his21">India Gate</string>
+    <string name="his31">Deewan-i-Khaas</string>
+    <string name="his41">Jawahar Gate</string>
+    <string name="his51">Red Fort</string>
+    <string name="his12">Humayun\'s tomb is the tomb of the Mughal Emperor Humayun in Delhi, India. The tomb was commissioned by Humayun\'s first wife and chief consort, Empress Bega Begum, in 1569-70, and designed by Mirak Mirza Ghiyas and his son, Sayyid Muhammad, Persian architects chosen by her.</string>
+    <string name="his22">The India Gate is a war memorial located astride the Rajpath, on the eastern edge of the \"ceremonial axis\" of New Delhi, formerly called Kingsway.</string>
+    <string name="his32">The Diwan-i-Khas, or Hall of Private Audiences, was a chamber in the Red Fort of Delhi built in 1648 as a location for receptions. It was the location where the Mughal Emperor Shah Jahan received courtiers and state guests</string>
+    <string name="his42"><![CDATA[Landmark structure & former entrance to the city, featuring a small market for fruits & vegetables.]]></string>
+    <string name="his52">The Red Fort is a historic fort in the city of Delhi in India, which served as the main residence of the Mughal Emperors. Emperor Shah Jahan commissioned construction of the Red Fort on 12 May 1638, when he decided to shift his capital from Agra to Delhi.</string>
+    <string name="hot11">Fab Hotel Divine Inn</string>
+    <string name="hot21">Hotel Sunshine</string>
+    <string name="hot31">Colonels Retreat</string>
+    <string name="hot41">Hotel Anand</string>
+    <string name="hot51">Ginger Hotel</string>
+    <string name="hot12">Rs.1850</string>
+    <string name="hot22">Rs.3100</string>
+    <string name="hot32">Rs.2691</string>
+    <string name="hot42">Rs.2300</string>
+    <string name="hot52">Rs.3800</string>
+    <string name="locname">location name</string>
+    <string name="locdes">location description</string>
+    <string name="coor">coordinates</string>
+
+</resources>
